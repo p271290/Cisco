@@ -44,3 +44,6 @@ echo "[+] Collecting user login and privilege audit data..."
 
 echo "[+] Audit complete!"
 echo "[+] The report has been safely saved locally to: $REPORT_FILE"
+
+
+FTP link: https://mft-srvcs.hpcloud.hp.com/portal-seefx/~public/NmFkYWRmZWQtMjUzMi00OTg4LThiOTAtODcxZTViZDdiMmIz?upload
